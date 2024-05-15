@@ -20,4 +20,3 @@ Olá! Sou João Victor Chaves, um engenheiro de software apaixonado por desenvol
 ## Agradecimentos
 
 Agradeço por visitar o meu perfil do GitHub! Sinta-se à vontade para explorar meus projetos e entre em contato se tiver alguma pergunta ou sugestão.
-
