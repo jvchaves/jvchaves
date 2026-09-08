@@ -5,6 +5,7 @@ Olá! Sou João Victor Chaves, um engenheiro de software apaixonado por desenvol
 ## Sobre mim
 
 - 👨‍💻 Engenheiro de software
+  
 - 🌱 Sempre aprendendo e explorando novas tecnologias
 
 ## Habilidades
